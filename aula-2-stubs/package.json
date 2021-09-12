@@ -1,0 +1,26 @@
+{
+  "name": "aula-2-stubs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^11.1.2"
+  },
+  "dependencies": {
+    "diff": "^5.0.0",
+    "has-flag": "^4.0.0",
+    "isarray": "^0.0.1",
+    "just-extend": "^4.2.1",
+    "lodash.get": "^4.4.2",
+    "nise": "^5.1.0",
+    "path-to-regexp": "^1.8.0",
+    "supports-color": "^7.2.0",
+    "type-detect": "^4.0.8"
+  },
+  "description": ""
+}
