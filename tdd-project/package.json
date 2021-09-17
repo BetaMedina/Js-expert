@@ -9,7 +9,7 @@
   "scripts": {
     "seed": "node ./seed",
     "test": "npx mocha -w --parallel ./test/**/*test.js",
-    "test:cov": "npx nyc npx mocha --parallel *test.js"
+    "test:cov": "npx nyc npx mocha --parallel ./test/**/*test.js"
   },
   "keywords": [],
   "author": "",
